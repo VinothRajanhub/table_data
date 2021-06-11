@@ -1,0 +1,12 @@
+table tr td{
+  border: 2px solid;
+}
+
+table th{
+  background-color: black;
+  color: white;
+}
+
+td{
+  text-align: center;
+}

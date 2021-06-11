@@ -1,0 +1,50 @@
+table tr td {
+  border: 2px solid;
+}
+
+table th {
+  background-color: black;
+  color: white;
+}
+
+td {
+  text-align: center;
+}
+
+.viewdata_header-btn{
+  float: right;
+  background-color: chartreuse;
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 15px 20px;
+  padding: 10px 10px;  
+}
+
+
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.search{
+  background-color: white;
+  padding: 12px 5px;
+  margin: 10px;
+  outline: none;
+  background-image: url('../../images/search-icon.svg');
+  background-size: 15px;
+  background-repeat: no-repeat;
+  background-position: 160px 10px;
+}
+
+.export{
+  background-color: rgba(0, 140, 255, 0.904);
+  color: white;
+  font-weight: 600;
+  margin: 20px auto;
+  display: block;
+  padding: 10px 25px;
+  border-radius: 10px;
+  outline: none;
+}

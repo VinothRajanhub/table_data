@@ -1,0 +1,32 @@
+.addrow {
+  background-color: yellow;
+  color: black;
+  font-weight: 600;
+  padding: 10px 10px;
+  margin: 10px 0;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.deleterow {
+  background-color: red;
+  color: white;
+  font-weight: 600;
+  padding: 10px 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.save {
+  background-color: green;
+  color: white;
+  font-weight: 600;
+  padding: 10px 10px;
+  margin: 0 auto;
+  display: block;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
