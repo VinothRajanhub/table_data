@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Mobile Responsiveness, Adding multiple input values, Searching all values, Downloading values in the CSV format supports in Chrome, Mozilla, Edge browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
